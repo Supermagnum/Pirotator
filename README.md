@@ -25,9 +25,9 @@ See more of project: https://jkry.org/ouluhack/PiRotator
 My personal notes and ideas:
 
 It could use:
-1x Stepper Motor HAT for Raspberry Pi WaveshareSKU: 102692 
+PicoBorg Reverse - Dual 5A Motor Controller
 
-https://thepihut.com/products/stepper-motor-hat-for-raspberry-pi
+https://www.piborg.org/motor-control-1135/picoborgrev
 
 ----------------------------------------------------------------------------
 
