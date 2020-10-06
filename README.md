@@ -24,7 +24,7 @@ See more of project: https://jkry.org/ouluhack/PiRotator
 ----------------------------------------------------------------------------
 My personal notes and ideas:
 
-It needs:
+It could use:
 1x Stepper Motor HAT for Raspberry Pi WaveshareSKU: 102692 
 
 1x Ozzmaker BerryGPS-IMU V3 
