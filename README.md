@@ -23,9 +23,12 @@ See more of project: https://jkry.org/ouluhack/PiRotator
 
 ----------------------------------------------------------------------------
 My personal notes and ideas:
+
 It needs:
 1x Stepper Motor HAT for Raspberry Pi WaveshareSKU: 102692 
+
 1x Ozzmaker BerryGPS-IMU V3 
+
 1X Adafruit LSM6DS33 + LIS3MDL - 9 DoF IMU with Accel / Gyro / Mag
 
 Using the BerryGPS-IMU's onboard GPS should permit the raspberry Pi to know its geographic location, that is useful for those who are running mobile setups as that could be used in the calculations of where to point the antennas. It can also detect magnetic north. It will also detect if the mobile setups main mast is not 100% alligned tu the "up" or X axis, and can be used to compensate for that if its not perfetcly straight up.
