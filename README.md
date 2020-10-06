@@ -30,9 +30,13 @@ It could use:
 https://thepihut.com/products/stepper-motor-hat-for-raspberry-pi
 
 
+
+
 1x Ozzmaker BerryGPS-IMU V3 
 
 https://ozzmaker.com/product/berrygps-imu/
+
+
 
 
 1X Adafruit LSM6DS33 + LIS3MDL - 9 DoF IMU with Accel / Gyro / Mag
@@ -41,9 +45,11 @@ https://www.adafruit.com/product/4485
 
 
 
+
 1X Adafruit ADS1115 16-Bit ADC - 4 Channel with Programmable Gain Amplifier
 
 https://thepihut.com/products/adafruit-ads1115-16-bit-adc-4-channel-with-programmable-gain-amplifier
+
 
 
 
