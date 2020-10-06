@@ -28,16 +28,19 @@ It could use:
 1x Stepper Motor HAT for Raspberry Pi WaveshareSKU: 102692 
 
 https://thepihut.com/products/stepper-motor-hat-for-raspberry-pi
+
 ----------------------------------------------------------------------------
 
 1x Ozzmaker BerryGPS-IMU V3 
 
 https://ozzmaker.com/product/berrygps-imu/
+
 ----------------------------------------------------------------------------
 
 1X Adafruit LSM6DS33 + LIS3MDL - 9 DoF IMU with Accel / Gyro / Mag
 
 https://www.adafruit.com/product/4485
+
 ----------------------------------------------------------------------------
 
 
