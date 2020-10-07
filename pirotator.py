@@ -305,7 +305,7 @@ class relayMotor:
     def do_step(self,dir):
 
         if EMERGENCYSTOP:  #failsafe
-            print "STOPPED BY EMERGENCYSTOP"
+            print "STOPPED BY EMERGENCY STOP"
             return False
 
         if self.power != True:
@@ -419,7 +419,7 @@ class Stepper:
     def do_step(self,dir):
 
         if EMERGENCYSTOP:  #failsafe
-            print "STOPPED BY EMERGENCYSTOP"
+            print "STOPPED BY EMERGENCY STOP"
             return False
 
         if self.power != True:
@@ -491,7 +491,7 @@ class Stepper_pico:
     def do_step(self,dir):
 
         if EMERGENCYSTOP:  #failsafe
-            print "STOPPED BY EMERGENCYSTOP"
+            print "STOPPED BY EMERGENCY STOP"
             return False
 
         self.power = True
@@ -518,7 +518,7 @@ class Stepper_pico:
         
 
 
-#class for hanling each axis 
+#class for handling each axis 
 class Axis:
     def __init__(self,speed,sensor,stepper,min,max,radio=None,reverse=False,type=1,deg_per_step=0.007):
         self.radio = radio
@@ -673,7 +673,7 @@ class Axis:
                 elif 4 <= self.positive(towdir) or 4 <= self.positive(toolddir): # full speed of soft start/stop
                     time.sleep(self.speed)
                 else:
-                    logging.error("WTF? Stopping motors via EMERGENCYSTOP")
+                    logging.error("WTF? Stopping motors via EMERGENCY STOP")
                     EMERGENCYSTOP = True
             #print self.maxsteps
             if self.maxsteps == 1:
