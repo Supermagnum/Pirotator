@@ -25,9 +25,13 @@ See more of project: https://jkry.org/ouluhack/PiRotator
 My personal notes and ideas:
 
 It could use:
-PicoBorg Reverse - Dual 5A Motor Controller
+PicoBorg Reverse - Dual 5A Motor Controller ( already supported in the code )
 
 https://www.piborg.org/motor-control-1135/picoborgrev
+
+Or:
+Adafruit DC & Stepper Motor Bonnet
+https://www.adafruit.com/product/4280
 
 ----------------------------------------------------------------------------
 
