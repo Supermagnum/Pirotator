@@ -58,6 +58,7 @@ All the part above can communicate using a I2C bus which are supported in the co
 Neither is "level compensation" .
 
 The suggested features is explained in this picture:
+
 https://github.com/Supermagnum/Pirotator/blob/main/axis.png
 
 -----------------------------------------
