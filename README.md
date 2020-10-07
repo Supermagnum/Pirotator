@@ -51,7 +51,7 @@ https://thepihut.com/products/adafruit-ads1115-16-bit-adc-4-channel-with-program
 ----------------------------------------------------------------------------
 
 
-Using the BerryGPS-IMU's onboard GPS should permit the raspberry Pi to know its geographic location, that is useful for those who are running mobile setups as that could be used in the calculations of where to point the antennas. It can also detect magnetic north. It will also detect if the mobile setups main mast is not 100% alligned tu the "up" or X axis, and can be used to compensate for that if its not perfetcly straight up.
+Using the BerryGPS-IMU's onboard GPS should permit the raspberry Pi to know its geographic location, that is useful for those who are running mobile setups as that could be used in the calculations of where to point the antennas. It can also detect magnetic north. It will also detect if the mobile setups main mast is not 100% alligned to the "up" or X axis, and can be used to compensate for that if its not perfetcly straight up.
 The Adafruit LSM6DS33's IMU can be used to detect the azimuth and elevation of the antennas mounting axle,its movement speed and where it is pointing related to North.
 
-All the part above can communicate using a I2C bus,that and GPS support is apparently not supported in the code.
+All the part above can communicate using a I2C bus which are supported in the code,in respect to the Borgpi stepper board. Magnetometer and GPS support is apparently not supported in the code.
