@@ -55,3 +55,4 @@ Using the BerryGPS-IMU's onboard GPS should permit the raspberry Pi to know its 
 The Adafruit LSM6DS33's IMU can be used to detect the azimuth and elevation of the antennas mounting axle,its movement speed and where it is pointing related to North.
 
 All the part above can communicate using a I2C bus which are supported in the code,in respect to the Borgpi stepper board. Magnetometer and GPS support is apparently not supported in the code.
+Neither is "level compensation" .
