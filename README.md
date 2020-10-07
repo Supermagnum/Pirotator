@@ -56,3 +56,8 @@ The Adafruit LSM6DS33's IMU can be used to detect the azimuth and elevation of t
 
 All the part above can communicate using a I2C bus which are supported in the code,in respect to the Borgpi stepper board. Magnetometer and GPS support is apparently not supported in the code.
 Neither is "level compensation" .
+
+The suggested features is explained in this picture:
+https://github.com/Supermagnum/Pirotator/blob/main/axis.png
+
+
