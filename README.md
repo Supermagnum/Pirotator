@@ -60,4 +60,10 @@ Neither is "level compensation" .
 The suggested features is explained in this picture:
 https://github.com/Supermagnum/Pirotator/blob/main/axis.png
 
+-----------------------------------------
+
+It should be possible to supply DC voltages over the Coax cable using:
+
+https://github.com/Supermagnum/Mjollnir
+
 
