@@ -25,7 +25,7 @@ See more of project: https://jkry.org/ouluhack/PiRotator
 My personal notes and ideas:
 
 It could use:
-PicoBorg Reverse - Dual 5A Motor Controller ( already supported in the code )
+2X PicoBorg Reverse - Dual 5A Motor Controller ( already supported in the code )
 
 https://www.piborg.org/motor-control-1135/picoborgrev
 
