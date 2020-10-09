@@ -74,7 +74,7 @@ https://github.com/Supermagnum/Mjollnir
 
 --------
 
-I have made technical drawings fro a sturdy aluminium insert that fits a box made by Fibox.
+I have made technical drawings fro a sturdy aluminium insert that fits a Waterproof ABS box made by Fibox.
 Its Product nbr: is 5330372
 EAN: 6418074005540
 http://www.fibox.com/catalog/135/product/862/5330372_ENG3.html
