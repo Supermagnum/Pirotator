@@ -80,6 +80,7 @@ EAN: 6418074005540
 http://www.fibox.com/catalog/135/product/862/5330372_ENG3.html
 
 It has mouting holes for bolts that holds 2X Nema23 Stepper Motors 1.1Nm L56mm 3A + RV30 Worm Reducer gearbox.
+Those are frequently found on Ebay, with a nice axle included.
 It is to be made of aluminium, aircraft type. Some TIG or MIG welding, drilling of holes and milling is required.
 
 PDF files for manufacturing,with drawings and assembly is located here:
