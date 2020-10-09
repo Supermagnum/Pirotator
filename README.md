@@ -72,4 +72,21 @@ It should be possible to supply DC voltages over the Coax cable using:
 
 https://github.com/Supermagnum/Mjollnir
 
+--------
+
+I have made technical drawings fro a sturdy aluminium insert that fits a box made by Fibox.
+Its Product nbr: is 5330372
+EAN: 6418074005540
+http://www.fibox.com/catalog/135/product/862/5330372_ENG3.html
+
+It has mouting holes for bolts that holds 2X Nema23 Stepper Motors 1.1Nm L56mm 3A + RV30 Worm Reducer gearbox.
+It is to be made of aluminium, aircraft type. Some TIG or MIG welding, drilling of holes and milling is required.
+
+PDF files for manufacturing,with drawings and assembly is located here:
+https://github.com/Supermagnum/Pirotator/tree/main/mechanical-hardware
+That also includes the Freecad file used to make the drawings.
+The adapters that goes on the axles needs to be drilled as you feel fit, and needs a M5 or M6 bolt to stay put on the axle.
+
+
+
 
